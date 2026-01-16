@@ -14,7 +14,7 @@ Yeah, I was bored (once again).
 
 ## Overview
 
-This is the v2 rewrite of the old [Love Live! API](https://github.com/repyh3/lovelive-api). To be honest, I'm doing this just for the sake of it. I may not or may not actively maintain this. But, have fun playing with this.
+This is the v2 rewrite of the old [Love Live! API](https://github.com/repyh3/lovelive-api). To be honest, I'm doing this just for the sake of it (and because I can). I may not or may not actively maintain this. But, have fun playing with this.
 
 ## Endpoints
 
