@@ -18,7 +18,7 @@ This is the v2 rewrite of the old [Love Live! API](https://github.com/repyh3/lov
 
 ## Endpoints
 
-Base URL: `http://lovelive-api-v2.vercel.app/api`
+Base URL: `https://lovelive-api-v2.vercel.app/api`
 
 ###  Groups
 
