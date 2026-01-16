@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <img src="docs/ll-api-v2.png" height="350" alt="Love Live! API v2 Logo">
+</div>
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+# Love Live! API v2
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Yeah, I was bored (once again).
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+[Playground](http://lovelive-api-v2.vercel.app) • Docs (coming soon!) • Contributing (also coming soon)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+</div>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Overview
 
-## Learn More
+This is the v2 rewrite of the old [Love Live! API](https://github.com/repyh3/lovelive-api). To be honest, I'm doing this just for the sake of it. I may not or may not actively maintain this. But, have fun playing with this.
 
-To learn more about Next.js, take a look at the following resources:
+## Endpoints
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Base URL: `http://localhost:3000/api`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+###  Groups
 
-## Deploy on Vercel
+#### Get All Groups
+`GET /groups`
+Returns a list of all school idol groups.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+#### Get Specific Group
+`GET /groups/:slug`
+*   `slug`: The URL-friendly name of the group (e.g., `aqours`, `liella`, `muse`).
+*   Example: `/api/groups/aqours`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### Idols
+
+#### Get All Idols
+`GET /idols`
+Returns a flat list of all idols from all groups.
+*   Query Params: `?group=slug` (Filter by group)
+
+#### Get Specific Idol (Global Search)
+`GET /idols/:slug`
+Searches all groups for an idol with the matching slug.
+*   `slug`: e.g., `chika-takami`, `kanon-shibuya`
+*   Example: `/api/idols/chika-takami`
+
+#### Get Specific Idol (Scoped)
+`GET /idols/:group/:slug`
+Faster lookup if the group is known.
+*   Example: `/api/idols/liella/kanon-shibuya`
+
+### Songs
+
+#### Get Group Songs
+`GET /songs?group=:group_slug`
+Returns metadata for all songs by a specific group.
+*   **Required**: `group` query parameter.
+*   Example: `/api/songs?group=aqours`
+
+#### Get Specific Song
+`GET /songs/:group/:slug`
+*   Example: `/api/songs/aqours/deep-resonance`
+
+### Lyrics
+
+#### Get Song Lyrics
+`GET /lyrics/:group/:slug/:lang`
+Returns the raw text content of the lyrics.
+*   `lang`: `english`, `romaji`, or `kanji`.
+*   Example: `/api/lyrics/aqours/deep-resonance/english`
+
+---
+
+## Development Status
+
+- [x] **Groups API**: Fully implemented for all main series groups.
+- [x] **Idols API**: Complete profiles for Muse, Aqours, Nijigasaki, Liella, Hasunosora, and more.
+- [x] **Songs API**: Metadata implementation complete.
+- [x] **Lyrics API**: Serving flat text files for English, Romaji, and Kanji.
+- [x] **Playground**: Interactive web GUI for testing endpoints.
+- [ ] **The New Group (Bluebird or something)**: Yeah, I dont really follow this one.
+
+## Running Locally
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/repyh3/lovelive-api-v2.git
+    cd lovelive-api-v2
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    bun install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    bun dev
+    ```
+    Open [http://localhost:3000](http://localhost:3000) to view the Playground.
+
+## License
+
+This project is open source. Data regarding the Love Live! franchise is the property of Project Love Live!, Sunrise, Lantis, and ASCII Media Works.
