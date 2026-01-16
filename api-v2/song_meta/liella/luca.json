@@ -1,0 +1,46 @@
+{
+  "title": "Luca",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Luca",
+  "artist": [
+    "Wien Margarete"
+  ],
+  "album": "",
+  "released": "May 28, 2025",
+  "composer": [
+    "Naoto Kiyota"
+  ],
+  "arranger": [
+    "Ren Mizunoya"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/25cWCLvs7vsqtD8i6TqTW5",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Wien Margarete",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "is a song by Wien Margarete, that appears on the Aspire album. It was released on May 28, 2025.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Aspire Photo Art.jpg",
+    "Artist": "Wien Margarete",
+    "Released": "May 28, 2025",
+    "Format": "CD",
+    "Recorded": "2025",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/luca/english.txt",
+    "romaji": "/lyrics/liella/luca/romaji.txt",
+    "kanji": "/lyrics/liella/luca/kanji.txt"
+  }
+}

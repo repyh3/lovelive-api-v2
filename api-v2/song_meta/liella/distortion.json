@@ -1,0 +1,44 @@
+{
+  "title": "Distortion",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Distortion",
+  "artist": [
+    "CatChu!"
+  ],
+  "album": "",
+  "released": "April 24, 2024",
+  "composer": [],
+  "arranger": [
+    "Menma"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/1uKqI8Bm5VGAlQ0bVhXnyC",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sub-unit Songs:Liella!",
+    "CatChu!",
+    "Lyrics",
+    "Kanon Shibuya",
+    "Sumire Heanna",
+    "Mei Yoneme",
+    "Liella! Songs"
+  ],
+  "description": "is CatChu!'s first single that was released on April 24, 2024.",
+  "infobox": {
+    "Image": "CatChu! Distortion.jpg",
+    "Artist": "CatChu!",
+    "Released": "April 24, 2024",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/distortion/english.txt",
+    "romaji": "/lyrics/liella/distortion/romaji.txt",
+    "kanji": "/lyrics/liella/distortion/kanji.txt"
+  }
+}

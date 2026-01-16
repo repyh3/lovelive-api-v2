@@ -1,0 +1,42 @@
+{
+  "title": "Superstar!!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Superstar!!",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "January 8, 2025",
+  "composer": [],
+  "arranger": [
+    "Yasuhiro Obata"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Kanon Shibuya",
+  "spotify": "https://open.spotify.com/track/5xqLRkjg7iceLR0GOCz7NL",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "is an insert song by Liella! that appeared in Love Live! Superstar!! Season 3 Episode 11. It was released on January 8, 2025.",
+  "infobox": {
+    "Image": "Superstar!! Insert Song Single 3 Cover.jpg",
+    "Artist": "Liella!",
+    "Center": "Kanon Shibuya",
+    "Released": "January 8, 2025",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/superstar/english.txt",
+    "romaji": "/lyrics/liella/superstar/romaji.txt",
+    "kanji": "/lyrics/liella/superstar/kanji.txt"
+  }
+}

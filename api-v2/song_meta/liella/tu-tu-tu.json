@@ -1,0 +1,41 @@
+{
+  "title": "Tu Tu Tu!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Tu_Tu_Tu!",
+  "artist": [
+    "Liella"
+  ],
+  "album": "",
+  "released": "February 25, 2022",
+  "composer": [],
+  "arranger": [
+    "Seiji Takagi"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/2IMQJ7Psno3RxlU0i0x4ux",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "Tu Tu Tu! (トゥ トゥ トゥ！) is a bonus CD sung by Liella!. The song is featured in Love Live! Superstar!! TV Anime Season 1 Blu-ray 6, which is included in the limited edition version of the sixth Blu-ray release. It was released on February 25, 2022.",
+  "infobox": {
+    "Image": "Superstar S1 BD Vol 6.jpg",
+    "Artist": "Liella",
+    "Released": "February 25, 2022",
+    "Recorded": "2021",
+    "Label": "Lantis",
+    "Previous": "Reverb",
+    "Next": "Hoshizora Monologue"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/tu-tu-tu/english.txt",
+    "romaji": "/lyrics/liella/tu-tu-tu/romaji.txt",
+    "kanji": "/lyrics/liella/tu-tu-tu/kanji.txt"
+  }
+}

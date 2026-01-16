@@ -1,0 +1,43 @@
+{
+  "title": "Reverb",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Reverb",
+  "artist": [
+    "Ren Hazuki"
+  ],
+  "album": "",
+  "released": "January 26, 2022",
+  "composer": [],
+  "arranger": [
+    "Mako Kuwabara"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/4au3Cvlm5UcaXGbf66hENe",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Solo Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Ren Hazuki"
+  ],
+  "description": "Reverb (リバーブ) is a bonus CD sung by Ren Hazuki. The song is featured in Love Live! Superstar!! TV Anime Season 1 Blu-ray 5, which is included in the limited edition version of the fifth Blu-ray release. It was released on January 26, 2022.",
+  "infobox": {
+    "Image": "Superstar S1 BD Vol 5.jpg",
+    "Artist": "Ren Hazuki",
+    "Released": "January 26, 2022",
+    "Recorded": "2021",
+    "Label": "Lantis",
+    "Previous": "Heroine's☆Runway",
+    "Next": "Tu Tu Tu!"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/reverb/english.txt",
+    "romaji": "/lyrics/liella/reverb/romaji.txt",
+    "kanji": "/lyrics/liella/reverb/kanji.txt"
+  }
+}

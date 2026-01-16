@@ -1,0 +1,44 @@
+{
+  "title": "Go!! Restart",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Go!!_Restart",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "August 17, 2022",
+  "composer": [
+    "Gou Ishikuro",
+    "Mio Jorakuji"
+  ],
+  "arranger": [
+    "Gou Ishikuro"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/5Pdma2KNLDMxUSYLruTVE3",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "is an insert song by Liella! that appeared in Love Live! Superstar!! Season 2 Episode 3. It was released on August 17, 2022.",
+  "infobox": {
+    "Image": "Go!! Restart Insert Song Single 1 Cover.jpg",
+    "Artist": "Liella!",
+    "Released": "August 17, 2022",
+    "Recorded": "2022",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/go-restart/english.txt",
+    "romaji": "/lyrics/liella/go-restart/romaji.txt",
+    "kanji": "/lyrics/liella/go-restart/kanji.txt"
+  }
+}

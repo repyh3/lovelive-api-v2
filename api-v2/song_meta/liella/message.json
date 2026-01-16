@@ -1,0 +1,46 @@
+{
+  "title": "Message",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Message",
+  "artist": [
+    "Sumire Heanna",
+    "Kanon Shibuya"
+  ],
+  "album": "",
+  "released": "October 27, 2021",
+  "composer": [
+    "Yasuhiro Obata"
+  ],
+  "arranger": [
+    "Yuya Mori"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/4SI4KsP4AmYS8ZT0Z7NPc7",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Sumire Heanna",
+    "Kanon Shibuya"
+  ],
+  "description": "Message is a song sung by Sumire Heanna and Kanon Shibuya. It was used as an insert song for the Songs of Liella! segment exclusive to NHK-E Tele's initial broadcast of Love Live! Superstar!! Season 1 Episode 6 and Season 1 Episode 7.",
+  "infobox": {
+    "Image": "Liella no Uta Album.jpg",
+    "Artist": "Sumire Heanna & Kanon Shibuya",
+    "Released": "October 27, 2021",
+    "Format": "CD",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/message/english.txt",
+    "romaji": "/lyrics/liella/message/romaji.txt",
+    "kanji": "/lyrics/liella/message/kanji.txt"
+  }
+}

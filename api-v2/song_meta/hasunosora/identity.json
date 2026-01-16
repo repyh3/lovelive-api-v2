@@ -1,0 +1,42 @@
+{
+  "title": "Identity",
+  "group_id": "hasunosora",
+  "url": "https://love-live.fandom.com/wiki/Identity",
+  "artist": [
+    "Mira-Cra Park!"
+  ],
+  "album": "",
+  "released": "November 29, 2023<br />October 2, 2024 (104th Ver.)",
+  "composer": [],
+  "arranger": [
+    "Atsuki Okuma (Arte Refact)"
+  ],
+  "lyricist": [
+    "Rosa"
+  ],
+  "center": "Megumi Fujishima Hime Anyoji (104th Ver.)",
+  "spotify": "https://open.spotify.com/track/1svLZ9Jpcqpl48Zb94d4z0",
+  "duration": "",
+  "categories": [
+    "Mira-Cra Park!",
+    "Lyrics",
+    "Discography:Hasunosora",
+    "Link! Like! Love Live!"
+  ],
+  "description": "is Mira-Cra Park!'s first single. It was released on November 29, 2023. A 104th Class Version was later released on October 2, 2024.",
+  "infobox": {
+    "Artist": "Mira-Cra Park!",
+    "Center": "Megumi Fujishima<br>Hime Anyoji (104th Ver.)",
+    "Released": "November 29, 2023<br />October 2, 2024 (104th Ver.)",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Label": "Lantis",
+    "Documented Reference": "",
+    "Image": "<gallery>"
+  },
+  "lyrics": {
+    "english": "/lyrics/hasunosora/identity/english.txt",
+    "romaji": "/lyrics/hasunosora/identity/romaji.txt",
+    "kanji": "/lyrics/hasunosora/identity/kanji.txt"
+  }
+}

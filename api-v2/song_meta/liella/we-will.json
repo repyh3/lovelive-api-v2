@@ -1,0 +1,45 @@
+{
+  "title": "WE WILL!!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/WE_WILL!!",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "August 3, 2022",
+  "composer": [
+    "Motokiyo"
+  ],
+  "arranger": [
+    "Yosuke Yamashita"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Kanon Shibuya",
+  "spotify": "https://open.spotify.com/track/1LJhBOJ0WD4n28K8Tp9AOg",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Opening",
+    "Opening"
+  ],
+  "description": "WE WILL!! is a single by Liella!, as well as Love Live! Superstar!! Season 2's opening song, starting from Season 2 Episode 1. It was released on August 3, 2022.",
+  "infobox": {
+    "Image": "WE WILL!!.jpg",
+    "Artist": "Liella!",
+    "Center": "Kanon Shibuya",
+    "Released": "August 3, 2022",
+    "Recorded": "2022",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/we-will/english.txt",
+    "romaji": "/lyrics/liella/we-will/romaji.txt",
+    "kanji": "/lyrics/liella/we-will/kanji.txt"
+  }
+}

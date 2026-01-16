@@ -1,0 +1,55 @@
+{
+  "title": "Special Holidays",
+  "group_id": "aqours",
+  "url": "https://love-live.fandom.com/wiki/Special_Holidays",
+  "artist": [
+    "Chika",
+    "You",
+    "Kanan"
+  ],
+  "album": "",
+  "released": "December 22, 2023",
+  "composer": [
+    "YUUKI SANO"
+  ],
+  "arranger": [
+    "Shoma Yamamoto",
+    "TAKAROT"
+  ],
+  "lyricist": [
+    "Hayato Yamamoto"
+  ],
+  "center": "",
+  "spotify": "",
+  "duration": "",
+  "categories": [
+    "Discography:Aqours",
+    "Love Live! Sunshine!!",
+    "Aqours Songs",
+    "Chika Takami",
+    "You Watanabe",
+    "Kanan Matsuura",
+    "Lyrics"
+  ],
+  "description": "Special Holidays is a bonus CD sung by Chika, You and Kanan. The song is featured in Yohane the Parhelion TV Anime Season 1 Blu-ray 4, which is included in the limited edition version of the fourth Blu-ray release.",
+  "infobox": {
+    "Artist": "Chika, You & Kanan",
+    "Released": "December 22, 2023",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Genre": "Anime",
+    "Length": "",
+    "Label": "Lantis",
+    "Image": "<tabber>",
+    "Back": "[[File:YTP S1 BD Vol 4 Back.jpg",
+    "Center": "",
+    "Previous": "Best wishes",
+    "Next": "Koukishin Journey",
+    "TAKAROT]].": "=Track Listing=="
+  },
+  "lyrics": {
+    "english": "/lyrics/aqours/special-holidays/english.txt",
+    "romaji": "/lyrics/aqours/special-holidays/romaji.txt",
+    "kanji": "/lyrics/aqours/special-holidays/kanji.txt"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Dolce",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Dolce",
+  "artist": [
+    "Wien Margarete",
+    "Tomari Onitsuka"
+  ],
+  "album": "",
+  "released": "January 29, 2025",
+  "composer": [
+    "Yasuhiro Obata"
+  ],
+  "arranger": [
+    "Yuya Mori"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/5jDSeyLwzGSksmNyV9a3fh",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Wien Margarete",
+    "Tomari Onitsuka",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "dolce is a song sung by Wien Margarete and Tomari Onitsuka. It was used as an insert song for the Songs of Liella! segment exclusive to NHK-E Tele's initial broadcast of Love Live! Superstar!! Season 3 Episode 1 and Season 3 Episode 2.",
+  "infobox": {
+    "Image": "Liella no Uta 3.jpg",
+    "Artist": "Wien Margarete & Tomari Onitsuka",
+    "Released": "January 29, 2025",
+    "Recorded": "2024",
+    "Label": "Lantis",
+    "Name": "dolce"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/dolce/english.txt",
+    "romaji": "/lyrics/liella/dolce/romaji.txt",
+    "kanji": "/lyrics/liella/dolce/kanji.txt"
+  }
+}

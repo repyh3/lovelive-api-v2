@@ -1,0 +1,45 @@
+{
+  "title": "Musubiba",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Musubiba",
+  "artist": [
+    "Ren Hazuki"
+  ],
+  "album": "",
+  "released": "May 28, 2025",
+  "composer": [],
+  "arranger": [
+    "Risa",
+    "Masayuki Kondo"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/76xfE6RARDIaQVA2E8VsDY",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Ren Hazuki",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "is a song by Ren Hazuki, that appears on the Aspire album. It was released on May 28, 2025.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Aspire Photo Art.jpg",
+    "Artist": "Ren Hazuki",
+    "Released": "May 28, 2025",
+    "Format": "CD",
+    "Recorded": "2025",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/musubiba/english.txt",
+    "romaji": "/lyrics/liella/musubiba/romaji.txt",
+    "kanji": "/lyrics/liella/musubiba/kanji.txt"
+  }
+}

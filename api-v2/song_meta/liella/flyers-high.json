@@ -1,0 +1,47 @@
+{
+  "title": "Flyer's High",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Flyer's_High",
+  "artist": [
+    "Chisato Arashi"
+  ],
+  "album": "",
+  "released": "March 2, 2022",
+  "composer": [
+    "Singo Kubota (Jazzin'park)",
+    "Satoru Kurihara (Jazzin'park)"
+  ],
+  "arranger": [
+    "Singo Kubota (Jazzin'park)"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Chisato Arashi",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "Flyer's High is a song by Chisato Arashi, that appears on the What a Wonderful Dream!! album that was released on March 2, 2022.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:What a Wonderful Dream Photo Art.jpg",
+    "Artist": "Chisato Arashi",
+    "Released": "March 2, 2022",
+    "Format": "CD",
+    "Recorded": "2021–2022",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/flyers-high/english.txt",
+    "romaji": "/lyrics/liella/flyers-high/romaji.txt",
+    "kanji": "/lyrics/liella/flyers-high/kanji.txt"
+  }
+}

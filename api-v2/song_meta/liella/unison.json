@@ -1,0 +1,45 @@
+{
+  "title": "Unison",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Unison",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "March 2, 2022",
+  "composer": [
+    "Yuki Kokubo",
+    "Gou Ishikuro"
+  ],
+  "arranger": [
+    "Gou Ishikuro"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/750OwgK8AhKJHp4Br78uqD",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "is a song by Liella!, that appears on the What a Wonderful Dream!! album that was released on March 2, 2022.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:What a Wonderful Dream Photo Art.jpg",
+    "Artist": "Liella!",
+    "Released": "March 2, 2022",
+    "Format": "CD",
+    "Recorded": "2021–2022",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/unison/english.txt",
+    "romaji": "/lyrics/liella/unison/romaji.txt",
+    "kanji": "/lyrics/liella/unison/kanji.txt"
+  }
+}

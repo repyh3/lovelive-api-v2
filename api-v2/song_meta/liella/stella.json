@@ -1,0 +1,51 @@
+{
+  "title": "Stella!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Stella!",
+  "artist": [
+    "Kanon Shibuya",
+    "Chisato Arashi",
+    "Sumire Heanna"
+  ],
+  "album": "",
+  "released": "February 25, 2022",
+  "composer": [
+    "Singo Kubota (Jazzin'park)",
+    "Satoru Kurihara (Jazzin'park)"
+  ],
+  "arranger": [
+    "Singo Kubota (Jazzin'park)"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/5jX6yoZ6EvBURfLh1zBOcs",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Lyrics",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Kanon Shibuya",
+    "Chisato Arashi",
+    "Sumire Heanna"
+  ],
+  "description": "Stella! is a bonus CD by Kanon Shibuya, Chisato Arashi, and Sumire Heanna. The CD is a bonus for purchasing the entire Love Live! Superstar!! Season 1 Blu-rays from Gamers (ゲーマーズ).",
+  "infobox": {
+    "Image": "Kanon Chisato Sumire Stella!.jpg",
+    "Artist": "Kanon Shibuya, Chisato Arashi & Sumire Heanna",
+    "Released": "February 25, 2022",
+    "Format": "CD",
+    "Recorded": "2021",
+    "Genre": "Anime",
+    "Label": "Lantis",
+    "Previous": "HAPPY TO DO WA!",
+    "Next": "Kawaranai Subete"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/stella/english.txt",
+    "romaji": "/lyrics/liella/stella/romaji.txt",
+    "kanji": "/lyrics/liella/stella/kanji.txt"
+  }
+}

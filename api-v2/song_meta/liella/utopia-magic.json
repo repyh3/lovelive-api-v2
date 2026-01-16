@@ -1,0 +1,41 @@
+{
+  "title": "Utopia Magic",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Utopia_Magic",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "September 21, 2022",
+  "composer": [
+    "Aira"
+  ],
+  "arranger": [
+    "EFFY"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/6ecLLVkBUoom0d7AENSoh5",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "is Liella!'s third song for the single that was released on September 21, 2022.",
+  "infobox": {
+    "Image": "Vitamin SUMMER! Insert Song Single 2 Cover.jpg",
+    "Artist": "Liella!",
+    "Released": "September 21, 2022",
+    "Recorded": "2022",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/utopia-magic/english.txt",
+    "romaji": "/lyrics/liella/utopia-magic/romaji.txt",
+    "kanji": "/lyrics/liella/utopia-magic/kanji.txt"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Wildcard",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Wildcard",
+  "artist": [
+    "Tomari Onitsuka"
+  ],
+  "album": "",
+  "released": "May 28, 2025",
+  "composer": [],
+  "arranger": [
+    "Rei Mizunoya"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/3oxOgDv67xQCqphDvDVfhD",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Tomari Onitsuka",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "is a song by Tomari Onitsuka, that appears on the Aspire album. It was released on May 28, 2025.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Aspire Photo Art.jpg",
+    "Artist": "Tomari Onitsuka",
+    "Released": "May 28, 2025",
+    "Format": "CD",
+    "Recorded": "2025",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/wildcard/english.txt",
+    "romaji": "/lyrics/liella/wildcard/romaji.txt",
+    "kanji": "/lyrics/liella/wildcard/kanji.txt"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "title": "Second Sparkle",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Second_Sparkle",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "March 15, 2023",
+  "composer": [
+    "Menma"
+  ],
+  "arranger": [
+    "Ren Mizunoya"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/45f4GDIfxYJempbVqaxvtV",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "Second Sparkle is a song by Liella!, as well as the title track of their second full-length album, that was released on March 15, 2023.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Second Sparkle Photo Art.jpg",
+    "Artist": "Liella!",
+    "Released": "March 15, 2023",
+    "Format": "CD",
+    "Recorded": "2022–2023",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/second-sparkle/english.txt",
+    "romaji": "/lyrics/liella/second-sparkle/romaji.txt",
+    "kanji": "/lyrics/liella/second-sparkle/kanji.txt"
+  }
+}

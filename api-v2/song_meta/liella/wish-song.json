@@ -1,0 +1,47 @@
+{
+  "title": "Wish Song",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Wish_Song",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "September 29, 2021<br />January 8, 2025 (11 Ver.)",
+  "composer": [
+    "Fuwari"
+  ],
+  "arranger": [
+    "Shu Kanematsu"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Kanon Shibuya Ren Hazuki",
+  "spotify": "https://open.spotify.com/track/2w37h0RKm3YRA40ng5VRZ3",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "Wish Song is an insert song sung by Liella! that appeared in Love Live! Superstar!! Season 1 Episode 8. It was released on September 29, 2021.",
+  "infobox": {
+    "Image": "<tabber>",
+    "2025": "[[File:Egao no Promise Insert Song Single 3 Cover.jpg",
+    "Artist": "Liella!",
+    "Center": "Kanon Shibuya<br />Ren Hazuki",
+    "Documented Reference": "Love Live! Superstar!! Liella! magazine ~Hazuki Ren~",
+    "Released": "September 29, 2021<br />January 8, 2025 (11 Ver.)",
+    "Format": "CD",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/wish-song/english.txt",
+    "romaji": "/lyrics/liella/wish-song/romaji.txt",
+    "kanji": "/lyrics/liella/wish-song/kanji.txt"
+  }
+}

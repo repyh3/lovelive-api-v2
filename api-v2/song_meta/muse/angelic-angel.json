@@ -1,0 +1,45 @@
+{
+  "title": "Angelic Angel",
+  "group_id": "muse",
+  "url": "https://love-live.fandom.com/wiki/Angelic_Angel",
+  "artist": [],
+  "album": "",
+  "released": "July 1, 2015",
+  "composer": [
+    "Mori Shintarou",
+    "arranged by Kurauchi Tatsuya"
+  ],
+  "arranger": [
+    "Kurauchi Tatsuya"
+  ],
+  "lyricist": [
+    "Hata Aki"
+  ],
+  "center": "Eli Ayase",
+  "spotify": "https://open.spotify.com/track/39URZtdz8fkfaAhNe6BHPB",
+  "duration": "5:00",
+  "categories": [
+    "Discography",
+    "Love Live!",
+    "Insert Songs",
+    "Animated Songs",
+    "Lyrics",
+    "Μ's Songs"
+  ],
+  "description": "Angelic Angel is a single by μ’s as well as an insert song in Love Live! The School Idol Movie. It was released on July 1, 2015. It was also featured in the movie's commercial.",
+  "infobox": {
+    "Released": "July 1, 2015",
+    "Format": "CD",
+    "Recorded": "2015",
+    "Genre": "Anime",
+    "Length": "5:00",
+    "Label": "Lantis",
+    "Image": "[[File:Angelic Angel & Hoshi o Kazoete Cover.jpg",
+    "Center": "Eli Ayase"
+  },
+  "lyrics": {
+    "english": "/lyrics/muse/angelic-angel/english.txt",
+    "romaji": "/lyrics/muse/angelic-angel/romaji.txt",
+    "kanji": "/lyrics/muse/angelic-angel/kanji.txt"
+  }
+}

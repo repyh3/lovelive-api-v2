@@ -1,0 +1,46 @@
+{
+  "title": "No.10",
+  "group_id": "aqours",
+  "url": "https://love-live.fandom.com/wiki/No.10",
+  "artist": [
+    "Aqours"
+  ],
+  "album": "",
+  "released": "August 1, 2018",
+  "composer": [
+    "Akira Sunset",
+    "arranged by APAZZI"
+  ],
+  "arranger": [
+    "APAZZI"
+  ],
+  "lyricist": [
+    "Aki Hata"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/1Akys4ddNICtUgEMWyfaX7",
+  "duration": "",
+  "categories": [
+    "Discography:Aqours",
+    "Love Live! Sunshine!!",
+    "Aqours Songs",
+    "Lyrics"
+  ],
+  "description": "No. 10 is the coupling song for the theme song for Aqours 4th LoveLive! ～Sailing to the Sunshine～. It was released on August 1, 2018.",
+  "infobox": {
+    "Artist": "Aqours",
+    "Center": "",
+    "Released": "August 1, 2018",
+    "Format": "CD",
+    "Recorded": "2018",
+    "Genre": "Anime",
+    "Length": "",
+    "Label": "Lantis",
+    "Image": "File:Thank you, FRIENDS!!.jpg"
+  },
+  "lyrics": {
+    "english": "/lyrics/aqours/no10/english.txt",
+    "romaji": "/lyrics/aqours/no10/romaji.txt",
+    "kanji": "/lyrics/aqours/no10/kanji.txt"
+  }
+}

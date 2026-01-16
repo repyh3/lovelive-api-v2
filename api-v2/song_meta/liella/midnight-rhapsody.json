@@ -1,0 +1,46 @@
+{
+  "title": "Midnight Rhapsody",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Midnight_Rhapsody",
+  "artist": [
+    "Ren Hazuki"
+  ],
+  "album": "",
+  "released": "March 15, 2023",
+  "composer": [
+    "Tomokazu Yamada"
+  ],
+  "arranger": [
+    "Shouhei Sumiya"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/0VVOwXxpiB4Uzvszq02L9H",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Ren Hazuki",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "is a song by Ren Hazuki, that appears on the Second Sparkle album. It was released on March 15, 2023.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Second Sparkle Photo Art.jpg",
+    "Artist": "Ren Hazuki",
+    "Released": "March 15, 2023",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/midnight-rhapsody/english.txt",
+    "romaji": "/lyrics/liella/midnight-rhapsody/romaji.txt",
+    "kanji": "/lyrics/liella/midnight-rhapsody/kanji.txt"
+  }
+}

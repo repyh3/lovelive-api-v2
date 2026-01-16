@@ -1,0 +1,44 @@
+{
+  "title": "Velour",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Velour",
+  "artist": [
+    "KALEIDOSCORE"
+  ],
+  "album": "",
+  "released": "August 2, 2023",
+  "composer": [],
+  "arranger": [
+    "Menma"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/4107vwheKxKQ3eY53HcYC1",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sub-unit Songs:Liella!",
+    "KALEIDOSCORE",
+    "Lyrics",
+    "Keke Tang",
+    "Ren Hazuki",
+    "Wien Margarete",
+    "Liella! Songs"
+  ],
+  "description": "is KALEIDOSCORE's first song that appears on the Jump Into the New World mini album. It was released on August 2, 2023.",
+  "infobox": {
+    "Image": "Liella! Jump Into the New World.jpg",
+    "Artist": "KALEIDOSCORE",
+    "Released": "August 2, 2023",
+    "Recorded": "2023",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/velour/english.txt",
+    "romaji": "/lyrics/liella/velour/romaji.txt",
+    "kanji": "/lyrics/liella/velour/kanji.txt"
+  }
+}

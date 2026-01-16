@@ -1,0 +1,44 @@
+{
+  "title": "Aspire",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Aspire",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "May 28, 2025",
+  "composer": [],
+  "arranger": [
+    "R・O・N",
+    "James L",
+    "ino"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/6nAcd7KirTRfN1r2BH9h6j",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "Aspire is a song by Liella!, as well as the title track of their third full-length album, that was released on May 28, 2025.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Aspire Photo Art.jpg",
+    "Artist": "Liella!",
+    "Released": "May 28, 2025",
+    "Format": "CD",
+    "Recorded": "2025",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/aspire/english.txt",
+    "romaji": "/lyrics/liella/aspire/romaji.txt",
+    "kanji": "/lyrics/liella/aspire/kanji.txt"
+  }
+}

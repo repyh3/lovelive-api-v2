@@ -1,0 +1,47 @@
+{
+  "title": "Rhythm",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Rhythm",
+  "artist": [
+    "Chisato Arashi"
+  ],
+  "album": "",
+  "released": "May 28, 2025",
+  "composer": [
+    "ArmySlick",
+    "Mio Jorakuji"
+  ],
+  "arranger": [
+    "ArmySlick"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/2lXNRcGz7pmmM0wsyS6yzM",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Chisato Arashi",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "Rhythm is a song by Chisato Arashi, that appears on the Aspire album. It was released on May 28, 2025.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Aspire Photo Art.jpg",
+    "Artist": "Chisato Arashi",
+    "Released": "May 28, 2025",
+    "Format": "CD",
+    "Recorded": "2025",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/rhythm/english.txt",
+    "romaji": "/lyrics/liella/rhythm/romaji.txt",
+    "kanji": "/lyrics/liella/rhythm/kanji.txt"
+  }
+}

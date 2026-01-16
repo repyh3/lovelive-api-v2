@@ -1,0 +1,41 @@
+{
+  "title": "Korekara",
+  "group_id": "muse",
+  "url": "https://love-live.fandom.com/wiki/Korekara",
+  "artist": [],
+  "album": "",
+  "released": "December 15, 2015",
+  "composer": [
+    "Masumi Itou",
+    "Mito"
+  ],
+  "arranger": [
+    "TO-MAS SOUNDSIGHT FLUORESCENT FOREST"
+  ],
+  "lyricist": [
+    "Aki Hata"
+  ],
+  "center": "Honoka Kosaka",
+  "spotify": "https://open.spotify.com/track/7cmHkvRilNBoMbMYuDqiIC",
+  "duration": "",
+  "categories": [
+    "Discography",
+    "Love Live!",
+    "Μ's Songs",
+    "Lyrics"
+  ],
+  "description": "is a bonus CD sung by μ's. The song is included in the Love Live! The School Idol Movie Blu-ray package which was released on December 15, 2015.",
+  "infobox": {
+    "Released": "December 15, 2015",
+    "Format": "CD/DVD",
+    "Recorded": "2015",
+    "Label": "Lantis",
+    "Image": "[[File:Love Live! School Idol Movie BD Front Cover.png",
+    "Center": "Honoka Kosaka"
+  },
+  "lyrics": {
+    "english": "/lyrics/muse/korekara/english.txt",
+    "romaji": "/lyrics/muse/korekara/romaji.txt",
+    "kanji": "/lyrics/muse/korekara/kanji.txt"
+  }
+}

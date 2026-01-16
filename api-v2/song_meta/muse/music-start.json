@@ -1,0 +1,45 @@
+{
+  "title": "Music S.T.A.R.T!!",
+  "group_id": "muse",
+  "url": "https://love-live.fandom.com/wiki/Music_S.T.A.R.T!!",
+  "artist": [
+    "μ’s"
+  ],
+  "album": "",
+  "released": "November 27, 2013",
+  "composer": [],
+  "arranger": [
+    "Akihiko Yamaguchi"
+  ],
+  "lyricist": [
+    "Aki Hata"
+  ],
+  "center": "Maki Nishikino",
+  "spotify": "https://open.spotify.com/track/1Ep7uoaNHbDmzES0PqEWe2",
+  "duration": "",
+  "categories": [
+    "Lyrics",
+    "Discography",
+    "Love Live!",
+    "Single",
+    "Animated Songs",
+    "Radio Dramas",
+    "Insert Songs",
+    "Μ's Songs"
+  ],
+  "description": "Music S.T.A.R.T!! is μ’s sixth single as well as an insert song in Love Live! School idol project's first original video animation. It was released on November 27, 2013. It is also included in µ's Best Album Best Live! Collection II.",
+  "infobox": {
+    "Artist": "μ’s",
+    "Released": "November 27, 2013",
+    "Format": "CD/Blu-Ray",
+    "Recorded": "2013",
+    "Label": "Lantis",
+    "Image": "[[File:Music START - Cover.jpg",
+    "Center": "Maki Nishikino"
+  },
+  "lyrics": {
+    "english": "/lyrics/muse/music-start/english.txt",
+    "romaji": "/lyrics/muse/music-start/romaji.txt",
+    "kanji": "/lyrics/muse/music-start/kanji.txt"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "UNIVERSE!!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/UNIVERSE!!",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "July 2023 (Physical CD)<br />August 2, 2023 (Streaming Services)",
+  "composer": [],
+  "arranger": [
+    "Yuki Utamaru"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/3KYIfwDTz5vFK6Op5ifWvd",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "UNIVERSE!! is the theme song for Liella! CLUB 2023.",
+  "infobox": {
+    "Image": "Liella! UNIVERSE!!.jpg",
+    "Artist": "Liella!",
+    "Released": "July 2023 (Physical CD)<br />August 2, 2023 (Streaming Services)",
+    "Recorded": "2023",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/universe/english.txt",
+    "romaji": "/lyrics/liella/universe/romaji.txt",
+    "kanji": "/lyrics/liella/universe/kanji.txt"
+  }
+}

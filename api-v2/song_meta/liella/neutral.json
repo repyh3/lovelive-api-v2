@@ -1,0 +1,46 @@
+{
+  "title": "Neutral",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Neutral",
+  "artist": [
+    "KALEIDOSCORE"
+  ],
+  "album": "",
+  "released": "April 24, 2024",
+  "composer": [],
+  "arranger": [
+    "Ryuki Koike",
+    "Hoffnung"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Wien Margarete",
+  "spotify": "https://open.spotify.com/track/77mx2Mcq8pyGlB1W5TtGfT",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sub-unit Songs:Liella!",
+    "KALEIDOSCORE",
+    "Lyrics",
+    "Keke Tang",
+    "Ren Hazuki",
+    "Wien Margarete",
+    "Liella! Songs"
+  ],
+  "description": "is KALEIDOSCORE's first single that was released on April 24, 2024.",
+  "infobox": {
+    "Image": "KALEIDOSCORE Neutral.jpg",
+    "Artist": "KALEIDOSCORE",
+    "Center": "Wien Margarete",
+    "Released": "April 24, 2024",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/neutral/english.txt",
+    "romaji": "/lyrics/liella/neutral/romaji.txt",
+    "kanji": "/lyrics/liella/neutral/kanji.txt"
+  }
+}

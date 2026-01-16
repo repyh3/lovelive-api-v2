@@ -1,0 +1,47 @@
+{
+  "title": "Zenryoku Riot",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Zenryoku_Riot",
+  "artist": [
+    "CatChu!"
+  ],
+  "album": "",
+  "released": "April 24, 2024",
+  "composer": [
+    "ArmySlick",
+    "Mio Jorakuji"
+  ],
+  "arranger": [
+    "ArmySlick"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/07D6Za2GjFugWs8Vul1npr",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sub-unit Songs:Liella!",
+    "CatChu!",
+    "Lyrics",
+    "Kanon Shibuya",
+    "Sumire Heanna",
+    "Mei Yoneme",
+    "Liella! Songs"
+  ],
+  "description": "is a song from the first single sung by CatChu!. It was released on April 24, 2024.",
+  "infobox": {
+    "Image": "CatChu! Distortion.jpg",
+    "Artist": "CatChu!",
+    "Released": "April 24, 2024",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/zenryoku-riot/english.txt",
+    "romaji": "/lyrics/liella/zenryoku-riot/romaji.txt",
+    "kanji": "/lyrics/liella/zenryoku-riot/kanji.txt"
+  }
+}

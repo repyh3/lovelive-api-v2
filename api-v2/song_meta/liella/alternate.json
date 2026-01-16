@@ -1,0 +1,44 @@
+{
+  "title": "Alternate",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Alternate",
+  "artist": [
+    "CatChu!"
+  ],
+  "album": "",
+  "released": "August 2, 2023",
+  "composer": [],
+  "arranger": [
+    "Menma"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/5UlTz5Tkha5v2YaCDcMCcb",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sub-unit Songs:Liella!",
+    "CatChu!",
+    "Lyrics",
+    "Kanon Shibuya",
+    "Sumire Heanna",
+    "Mei Yoneme",
+    "Liella! Songs"
+  ],
+  "description": "is CatChu!'s first song that appears on the Jump Into the New World mini album. It was released on August 2, 2023.",
+  "infobox": {
+    "Image": "Liella! Jump Into the New World.jpg",
+    "Artist": "CatChu!",
+    "Released": "August 2, 2023",
+    "Recorded": "2023",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/alternate/english.txt",
+    "romaji": "/lyrics/liella/alternate/romaji.txt",
+    "kanji": "/lyrics/liella/alternate/kanji.txt"
+  }
+}

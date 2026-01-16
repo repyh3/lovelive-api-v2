@@ -1,0 +1,41 @@
+{
+  "title": "Star Sengen",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Star_Sengen",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "August 3, 2022",
+  "composer": [
+    "Mayuko Maruyama"
+  ],
+  "arranger": [
+    "Masaki Iehara"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/2NXZ1iOG0zV0petFHEc3iG",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "is Liella!'s second song for the single that was released on August 3, 2022.",
+  "infobox": {
+    "Image": "WE WILL!!.jpg",
+    "Artist": "Liella!",
+    "Released": "August 3, 2022",
+    "Recorded": "2022",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/star-sengen/english.txt",
+    "romaji": "/lyrics/liella/star-sengen/romaji.txt",
+    "kanji": "/lyrics/liella/star-sengen/kanji.txt"
+  }
+}

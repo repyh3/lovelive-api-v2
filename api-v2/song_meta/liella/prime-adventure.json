@@ -1,0 +1,43 @@
+{
+  "title": "Prime Adventure",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Prime_Adventure",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "October 26, 2022",
+  "composer": [
+    "Yasuhiro Obata"
+  ],
+  "arranger": [
+    "Yuya Mori"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/2y9YOgeTpwkpbqNZwdMGCQ",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "is a song sung by Liella!. It was used as an insert song for the Songs of Liella! segment exclusive to NHK-E Tele's initial broadcast of Love Live! Superstar!! Season 2 Episode 7.",
+  "infobox": {
+    "Image": "Liella no Uta 2.jpg",
+    "Artist": "Liella!",
+    "Released": "October 26, 2022",
+    "Recorded": "2022",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/prime-adventure/english.txt",
+    "romaji": "/lyrics/liella/prime-adventure/romaji.txt",
+    "kanji": "/lyrics/liella/prime-adventure/kanji.txt"
+  }
+}

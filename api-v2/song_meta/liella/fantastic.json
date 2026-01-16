@@ -1,0 +1,44 @@
+{
+  "title": "FANTASTiC",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/FANTASTiC",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "January 10, 2024",
+  "composer": [
+    "YUU for YOU",
+    "Giz'Mo(from Jam9)"
+  ],
+  "arranger": [
+    "YUU for YOU"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Sumire Heanna",
+  "spotify": "https://open.spotify.com/track/1SPxFa5hwBkGa4BOLF2TFp",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "FANTASTiC is Liella!'s 2nd song for the single that was released on January 10, 2024.",
+  "infobox": {
+    "Image": "Liella! Shekira☆☆☆.jpg",
+    "Artist": "Liella!",
+    "Center": "Sumire Heanna",
+    "Documented Reference": "",
+    "Released": "January 10, 2024",
+    "Recorded": "2023",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/fantastic/english.txt",
+    "romaji": "/lyrics/liella/fantastic/romaji.txt",
+    "kanji": "/lyrics/liella/fantastic/kanji.txt"
+  }
+}

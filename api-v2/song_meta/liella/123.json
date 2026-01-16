@@ -1,0 +1,44 @@
+{
+  "title": "1.2.3!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/1.2.3!",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "August 25, 2021",
+  "composer": [
+    "Mayuko Maruyama"
+  ],
+  "arranger": [
+    "Masaki Iehara"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/3AIwVCB3xukZP0vLrv2QxR",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "1.2.3! is Liella!'s third song for the single that was released on August 25, 2021.",
+  "infobox": {
+    "Image": "Mirai Yohou Hallelujah Tiny Stars Ep 3 Cover Edition.jpg",
+    "Artist": "Liella!",
+    "Center": "",
+    "Documented Reference": "",
+    "Released": "August 25, 2021",
+    "Format": "CD",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/123/english.txt",
+    "romaji": "/lyrics/liella/123/romaji.txt",
+    "kanji": "/lyrics/liella/123/kanji.txt"
+  }
+}

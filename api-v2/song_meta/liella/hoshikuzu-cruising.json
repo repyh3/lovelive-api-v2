@@ -1,0 +1,44 @@
+{
+  "title": "Hoshikuzu Cruising",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Hoshikuzu_Cruising",
+  "artist": [
+    "Keke Tang"
+  ],
+  "album": "",
+  "released": "March 15, 2023",
+  "composer": [],
+  "arranger": [
+    "Yasuhiro Obata"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Keke Tang",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "is a song by Keke Tang, that appears on the Second Sparkle album. It was released on March 15, 2023.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Second Sparkle Photo Art.jpg",
+    "Artist": "Keke Tang",
+    "Released": "March 15, 2023",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/hoshikuzu-cruising/english.txt",
+    "romaji": "/lyrics/liella/hoshikuzu-cruising/romaji.txt",
+    "kanji": "/lyrics/liella/hoshikuzu-cruising/kanji.txt"
+  }
+}

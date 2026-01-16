@@ -1,0 +1,47 @@
+{
+  "title": "Anniversary",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Anniversary",
+  "artist": [
+    "Keke Tang",
+    "Ren Hazuki"
+  ],
+  "album": "",
+  "released": "October 27, 2021",
+  "composer": [
+    "Yasuhiro Obata"
+  ],
+  "arranger": [
+    "Yuya Mori"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/1NkTsEt3quWlBzS4V8ughc",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Keke Tang",
+    "Ren Hazuki",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "Anniversary is a song sung by Keke Tang and Ren Hazuki. It was used as an insert song for the Songs of Liella! segment exclusive to NHK-E Tele's initial broadcast of Love Live! Superstar!! Season 1 Episode 4 and Season 1 Episode 5.",
+  "infobox": {
+    "Image": "Liella no Uta Album.jpg",
+    "Artist": "Keke Tang & Ren Hazuki",
+    "Released": "October 27, 2021",
+    "Format": "",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/anniversary/english.txt",
+    "romaji": "/lyrics/liella/anniversary/romaji.txt",
+    "kanji": "/lyrics/liella/anniversary/kanji.txt"
+  }
+}

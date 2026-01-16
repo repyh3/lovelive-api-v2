@@ -1,0 +1,44 @@
+{
+  "title": "Hello, Hoshi o Kazoete",
+  "group_id": "muse",
+  "url": "https://love-live.fandom.com/wiki/Hello,_Hoshi_o_Kazoete",
+  "artist": [],
+  "album": "",
+  "released": "July 1, 2015",
+  "composer": [],
+  "arranger": [
+    "Akihiko Yamaguchi"
+  ],
+  "lyricist": [
+    "Aki Hata"
+  ],
+  "center": "Rin Hoshizora",
+  "spotify": "https://open.spotify.com/track/5lybWKtiujlsgc57CJ8b3B",
+  "duration": "",
+  "categories": [
+    "Discography",
+    "Love Live!",
+    "Insert Songs",
+    "Animated Songs",
+    "Lyrics",
+    "Μ's Songs",
+    "Rin Hoshizora",
+    "Maki Nishikino",
+    "Hanayo Koizumi",
+    "Duo Trio Songs"
+  ],
+  "description": "is μ’s second song for the single released on July 1, 2015. It is performed by Rin Hoshizora, Maki Nishikino and Hanayo Koizumi.",
+  "infobox": {
+    "Released": "July 1, 2015",
+    "Format": "CD",
+    "Recorded": "2015",
+    "Label": "Lantis",
+    "Image": "[[File:Angelic Angel & Hoshi o Kazoete Cover.jpg",
+    "Center": "Rin Hoshizora"
+  },
+  "lyrics": {
+    "english": "/lyrics/muse/hello-hoshi-o-kazoete/english.txt",
+    "romaji": "/lyrics/muse/hello-hoshi-o-kazoete/romaji.txt",
+    "kanji": "/lyrics/muse/hello-hoshi-o-kazoete/kanji.txt"
+  }
+}

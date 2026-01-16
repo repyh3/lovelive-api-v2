@@ -1,0 +1,45 @@
+{
+  "title": "Aqours☆HEROES",
+  "group_id": "aqours",
+  "url": "https://love-live.fandom.com/wiki/Aqours☆HEROES",
+  "artist": [
+    "Aqours"
+  ],
+  "album": "",
+  "released": "October 7, 2015",
+  "composer": [],
+  "arranger": [
+    "Watanabe Kazunori"
+  ],
+  "lyricist": [
+    "Hata Aki"
+  ],
+  "center": "Chika Takami",
+  "spotify": "https://open.spotify.com/track/0FQj7luDMVDhsTIKblIjtx",
+  "duration": "4:16",
+  "categories": [
+    "Discography:Aqours",
+    "Love Live! Sunshine!!",
+    "Aqours Songs",
+    "Lyrics"
+  ],
+  "description": "Aqours☆HEROES is Aqours' third song for their first single, which was released on October 7, 2015.",
+  "infobox": {
+    "Image": "[[File:Kimi no Kokoro wa Kagayaiteru kai Cover.jpg",
+    "Artist": "Aqours",
+    "Center": "Chika Takami",
+    "Released": "October 7, 2015",
+    "Format": "CD/Blu-Ray",
+    "Recorded": "2015",
+    "Genre": "Anime",
+    "Length": "4:16",
+    "Label": "Lantis",
+    "Documented Reference": "",
+    "Watanabe Kazunori]].": "= SIF 2: Miracle Live Description =="
+  },
+  "lyrics": {
+    "english": "/lyrics/aqours/aqoursheroes/english.txt",
+    "romaji": "/lyrics/aqours/aqoursheroes/romaji.txt",
+    "kanji": "/lyrics/aqours/aqoursheroes/kanji.txt"
+  }
+}

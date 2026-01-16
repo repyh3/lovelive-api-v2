@@ -1,0 +1,45 @@
+{
+  "title": "Day1",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Day1",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "October 20, 2021",
+  "composer": [
+    "Menma",
+    "KEN THE 390"
+  ],
+  "arranger": [
+    "Masaki Iehara"
+  ],
+  "lyricist": [
+    "KEN THE 390"
+  ],
+  "center": "Sumire Heanna",
+  "spotify": "https://open.spotify.com/track/7EIAw2TDdQM7WkhzFuozzU",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "Day1 is Liella!'s third song for the single that was released on October 20, 2021.",
+  "infobox": {
+    "Image": "File:Nonfiction!! Insert Single 1 Cover.jpg",
+    "Artist": "Liella!",
+    "Center": "Sumire Heanna",
+    "Documented Reference": "",
+    "Released": "October 20, 2021",
+    "Format": "CD",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/day1/english.txt",
+    "romaji": "/lyrics/liella/day1/romaji.txt",
+    "kanji": "/lyrics/liella/day1/kanji.txt"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Departure",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Departure",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "October 27, 2021",
+  "composer": [
+    "Yasuhiro Obata"
+  ],
+  "arranger": [
+    "Yuya Mori"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/1vbi6yaJevCD0a6pixRXMW",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "Departure is a song by Liella!.  It was used as an insert song for the Songs of Liella! segment exclusive to NHK-E Tele's initial broadcast of Love Live! Superstar!! Season 1 Episode 12.",
+  "infobox": {
+    "Image": "Liella no Uta Album.jpg",
+    "Artist": "Liella!",
+    "Released": "October 27, 2021",
+    "Recorded": "2021",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/departure/english.txt",
+    "romaji": "/lyrics/liella/departure/romaji.txt",
+    "kanji": "/lyrics/liella/departure/kanji.txt"
+  }
+}

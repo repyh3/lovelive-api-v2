@@ -1,0 +1,51 @@
+{
+  "title": "Te・ki・na Music",
+  "group_id": "aqours",
+  "url": "https://love-live.fandom.com/wiki/Te・ki・na_Music",
+  "artist": [
+    "Yohane"
+  ],
+  "album": "",
+  "released": "September 27, 2023",
+  "composer": [
+    "SHOW"
+  ],
+  "arranger": [
+    "TAKAROT",
+    "Shoma Yamamoto"
+  ],
+  "lyricist": [
+    "Hayato Yamamoto"
+  ],
+  "center": "",
+  "spotify": "",
+  "duration": "",
+  "categories": [
+    "Discography:Aqours",
+    "Love Live! Sunshine!!",
+    "Aqours Songs",
+    "Yoshiko Tsushima",
+    "Lyrics",
+    "Solo Songs:Aqours"
+  ],
+  "description": "is a bonus CD sung by Yohane. The song is featured in Yohane the Parhelion TV Anime Season 1 Blu-ray 1, which is included in the limited edition version of the first Blu-ray release.",
+  "infobox": {
+    "Artist": "Yohane",
+    "Released": "September 27, 2023",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Genre": "Anime",
+    "Length": "",
+    "Label": "Lantis",
+    "Image": "<tabber>",
+    "Back": "[[File:YTP S1 BD Vol 1 Back.jpg",
+    "Center": "",
+    "Next": "Tick-Tack, Tick-Tack",
+    "Shoma Yamamoto]].": "=Track Listing=="
+  },
+  "lyrics": {
+    "english": "/lyrics/aqours/tekina-music/english.txt",
+    "romaji": "/lyrics/aqours/tekina-music/romaji.txt",
+    "kanji": "/lyrics/aqours/tekina-music/kanji.txt"
+  }
+}

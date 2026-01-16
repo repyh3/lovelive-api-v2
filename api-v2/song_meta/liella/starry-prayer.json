@@ -1,0 +1,44 @@
+{
+  "title": "Starry Prayer",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Starry_Prayer",
+  "artist": [
+    "Sumire Heanna"
+  ],
+  "album": "",
+  "released": "March 15, 2023",
+  "composer": [],
+  "arranger": [
+    "JunPayer"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Sumire Heanna",
+    "Liella! Songs",
+    "Lyrics",
+    "Solo Songs:Liella!"
+  ],
+  "description": "Starry Prayer is a song by Sumire Heanna, that appears on the Second Sparkle album. It was released on March 15, 2023.",
+  "infobox": {
+    "Image": "<tabber>",
+    "Photo": "[[File:Liella Second Sparkle Photo Art.jpg",
+    "Artist": "Sumire Heanna",
+    "Released": "March 15, 2023",
+    "Format": "CD",
+    "Recorded": "2023",
+    "Genre": "Anime",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/starry-prayer/english.txt",
+    "romaji": "/lyrics/liella/starry-prayer/romaji.txt",
+    "kanji": "/lyrics/liella/starry-prayer/kanji.txt"
+  }
+}

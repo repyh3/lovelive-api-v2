@@ -1,0 +1,39 @@
+{
+  "title": "Aikotoba!",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Aikotoba!",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "July 2024 (Physical CD)<br>August 1, 2024 (Digital Release)",
+  "composer": [],
+  "arranger": [
+    "Takuya Ohata"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "",
+  "spotify": "https://open.spotify.com/track/5x2CP6plITBIEwMKZ6he8T",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Liella! Songs",
+    "Lyrics"
+  ],
+  "description": "is the theme song for Liella! CLUB 2024.",
+  "infobox": {
+    "Image": "Liella! Aikotoba!.jpg",
+    "Artist": "Liella!",
+    "Released": "July 2024 (Physical CD)<br>August 1, 2024 (Digital Release)",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/aikotoba/english.txt",
+    "romaji": "/lyrics/liella/aikotoba/romaji.txt",
+    "kanji": "/lyrics/liella/aikotoba/kanji.txt"
+  }
+}

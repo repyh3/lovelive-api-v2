@@ -1,0 +1,43 @@
+{
+  "title": "Special Color",
+  "group_id": "liella",
+  "url": "https://love-live.fandom.com/wiki/Special_Color",
+  "artist": [
+    "Liella!"
+  ],
+  "album": "",
+  "released": "November 13, 2024",
+  "composer": [],
+  "arranger": [
+    "Kentaro Sonoda",
+    "Ayato Fujiwara"
+  ],
+  "lyricist": [
+    "Junko Miyajima"
+  ],
+  "center": "Shiki Wakana",
+  "spotify": "https://open.spotify.com/track/3DvKZW3rxxf7Uvvzz4iGDU",
+  "duration": "",
+  "categories": [
+    "Discography:Liella!",
+    "Love Live! Superstar!!",
+    "Animated Songs:Liella!",
+    "Liella! Songs",
+    "Lyrics",
+    "Superstar!! Insert Songs"
+  ],
+  "description": "Special Color is an insert song by Liella! that appeared in Love Live! Superstar!! Season 3 Episode 3. It was released on November 13, 2024.",
+  "infobox": {
+    "Image": "Special Color Insert Song Single 1 Cover.jpg",
+    "Artist": "Liella!",
+    "Center": "Shiki Wakana",
+    "Released": "November 13, 2024",
+    "Recorded": "2024",
+    "Label": "Lantis"
+  },
+  "lyrics": {
+    "english": "/lyrics/liella/special-color/english.txt",
+    "romaji": "/lyrics/liella/special-color/romaji.txt",
+    "kanji": "/lyrics/liella/special-color/kanji.txt"
+  }
+}
